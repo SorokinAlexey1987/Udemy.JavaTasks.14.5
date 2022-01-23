@@ -10,5 +10,6 @@ public class Main {
         double volumeSum = box1.volume() + box3.volume();
         System.out.println("box1 + box3 = " + volumeSum);
         box4.showVolume();
+        System.out.println("1");
     }
 }
