@@ -1,4 +1,14 @@
+import java.sql.SQLOutput;
+
+/**
+ * The type Main.
+ */
 public class Main {
+    /**
+     * The entry point of application.
+     *
+     * @param args the input arguments
+     */
     public static void main(String[] args) {
         Box box1 = new Box(10);
         Box box2 = new Box(20,20,10);
